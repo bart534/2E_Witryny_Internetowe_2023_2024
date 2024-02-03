@@ -1,0 +1,9 @@
+Zadanie 5
+Nazwa atrybutu:			Zastosowanie:				Znacznik:
+
+type="submit" 			wysyłanie danych			<input>
+scrolling="no/yes/auto"							<frame>
+maxlenght="x"			maksymalna liczba znaków		<input> 
+id="header"			identyfikowanie elementów 		brak 
+type="text"			pole do wpisania tekstu			<input> 
+

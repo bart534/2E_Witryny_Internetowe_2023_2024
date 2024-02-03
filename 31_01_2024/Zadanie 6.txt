@@ -1,0 +1,8 @@
+Zadanie 6
+
+Nazwa wartości: 			Opis:
+1. Value				Określa początkową wartość pola
+2. Disabled				Zablokowuje możliwość edycji pola
+3. Reset				Resetuje formularz
+4. Method				Metoda przesyłania danych
+5. Action				Docelowe miejsce przetwarzania danych
